@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WorldWideRecipes_react/static/css/main.9168f46f.css",
+    "main.js": "/WorldWideRecipes_react/static/js/main.137da59c.js",
+    "index.html": "/WorldWideRecipes_react/index.html",
+    "main.9168f46f.css.map": "/WorldWideRecipes_react/static/css/main.9168f46f.css.map",
+    "main.137da59c.js.map": "/WorldWideRecipes_react/static/js/main.137da59c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9168f46f.css",
+    "static/js/main.137da59c.js"
+  ]
+}
